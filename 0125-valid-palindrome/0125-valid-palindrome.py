@@ -4,9 +4,9 @@ class Solution(object):
         right = len(s) - 1
 
         while left < right:
-            while not s[left].isalnum() and left < len(s) - 1:
+            while not s[left].isalnum() and left < right:
                 left += 1 
-            while not s[right].isalnum() and right > -1:
+            while not s[right].isalnum() and right > left:
                 right -= 1
             if s[left].lower() != s[right].lower():
                 return False
