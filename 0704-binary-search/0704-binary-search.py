@@ -8,8 +8,8 @@ class Solution(object):
             if nums[index] == target:
                 return index
             if nums[index] > target:
-                r -= 1
+                r = index - 1
             if nums[index] < target:
-                l += 1
+                l = index + 1
         
         return -1
