@@ -3,7 +3,6 @@ class Solution(object):
         n = len(matrix[0])
         l = 0
         r = len(matrix)*len(matrix[0]) - 1
-        index = (l+r)//2
 
         while l <= r:
             index = (l+r)//2
