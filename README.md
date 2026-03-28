@@ -147,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,4 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
