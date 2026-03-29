@@ -5,6 +5,9 @@
 #         self.next = next
 class Solution(object):
     def isPalindrome(self, head):
+        if not head:
+            return True
+            
         curr = head
         currRe = self.reverse(self.middle(head))
 
