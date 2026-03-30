@@ -17,8 +17,7 @@ class Solution(object):
     def dfs(self, grid, r, c):
         if r >= len(grid) or r < 0 or c >= len(grid[0]) or c < 0 or grid[r][c] != '1':
             return
-        if grid[r][c] == '1':
-            grid[r][c] = '0'
+        grid[r][c] = '0'
 
         self.dfs(grid, r + 1, c)
         self.dfs(grid, r, c + 1)
