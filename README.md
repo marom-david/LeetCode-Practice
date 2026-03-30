@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/marom-david/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
