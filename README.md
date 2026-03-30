@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/marom-david/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/marom-david/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/marom-david/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/marom-david/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
