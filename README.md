@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/marom-david/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marom-david/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/marom-david/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/marom-david/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
@@ -98,16 +100,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/marom-david/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/marom-david/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
