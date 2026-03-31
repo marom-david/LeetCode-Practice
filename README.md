@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/marom-david/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/marom-david/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marom-david/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marom-david/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/marom-david/LeetCode-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/marom-david/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
