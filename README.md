@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/marom-david/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/marom-david/LeetCode-Practice/tree/master/0733-flood-fill) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -158,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/marom-david/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marom-david/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
