@@ -1,5 +1,7 @@
 class Solution(object):
     def merge(self, intervals):
+        if not intervals:
+            return []
         intervals.sort(key=lambda x: x[0])
         start = 0
         end = 0 
