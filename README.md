@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/marom-david/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/marom-david/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/marom-david/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/marom-david/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/marom-david/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/marom-david/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/marom-david/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/marom-david/LeetCode-Practice/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Matrix
 |  |
 | ------- |
