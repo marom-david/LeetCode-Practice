@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/marom-david/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/marom-david/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/marom-david/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marom-david/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
