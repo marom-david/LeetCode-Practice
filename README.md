@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/marom-david/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/marom-david/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/marom-david/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marom-david/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/marom-david/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
