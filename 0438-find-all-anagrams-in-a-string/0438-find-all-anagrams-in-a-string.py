@@ -10,16 +10,14 @@ class Solution(object):
         counter = 0
         for r in range(len(s)):
             s_dict[s[r]] = s_dict.get(s[r], 0) + 1
-            counter += 1
             if s_dict == p_dict:
                 res.append(l)
-            while counter >= len(p):
+            if r - l + 1 >= len(p):
                 s_dict[s[l]] = s_dict.get(s[l], 0) - 1
                 if s_dict[s[l]] == 0:
                     del s_dict[s[l]]
                 l += 1
-                counter -= 1
-        
+
         return res
 
         
