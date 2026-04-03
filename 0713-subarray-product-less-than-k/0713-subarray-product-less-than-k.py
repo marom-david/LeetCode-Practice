@@ -8,7 +8,7 @@ class Solution(object):
             product *= nums[r]
 
             while product >= k and l <= r:
-                product /= nums[l]
+                product //= nums[l]
                 l += 1
 
             res += (r-l+1)
