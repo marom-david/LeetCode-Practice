@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/marom-david/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/marom-david/LeetCode-Practice/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/marom-david/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/marom-david/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/marom-david/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/marom-david/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/marom-david/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/marom-david/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/marom-david/LeetCode-Practice/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/marom-david/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
