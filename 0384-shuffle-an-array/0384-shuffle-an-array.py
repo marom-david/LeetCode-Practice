@@ -11,10 +11,11 @@ class Solution(object):
         
 
     def shuffle(self):
-        n = len(self.array)
-        for i in range(n - 1, -1, -1):
+        arr = self.array
+        n = len(arr)
+        for i in range(n - 1, 0, -1):
             j = random.randint(0, i)
-            self.array[i], self.array[j] = self.array[j], self.array[i]
+            arr[i], arr[j] = arr[j], arr[i]
 
         return self.array
         
