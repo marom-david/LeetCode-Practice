@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/marom-david/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/marom-david/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marom-david/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/marom-david/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/marom-david/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/marom-david/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 ## Matrix
 |  |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/marom-david/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
