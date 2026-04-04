@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/marom-david/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0860-lemonade-change) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
