@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/marom-david/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/marom-david/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/marom-david/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marom-david/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/marom-david/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marom-david/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/marom-david/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/marom-david/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/marom-david/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/marom-david/LeetCode-Practice/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
