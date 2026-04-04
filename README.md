@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/marom-david/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/marom-david/LeetCode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/marom-david/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/marom-david/LeetCode-Practice/tree/master/0735-asteroid-collision) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/marom-david/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/marom-david/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/marom-david/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/marom-david/LeetCode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
