@@ -1,28 +1,51 @@
+class ListNode:
+    def __init__(self, key=-1, val=-1, next=None):
+        self.key = key
+        self.val = val
+        self.next = next
+
 class MyHashMap(object):
 
     def __init__(self):
-        self.hash_map = []
+        self.size = 10007
+        self.table = [ListNode() for _ in range(self.size)]
+
+    def _hash(self, key):
+        return key%self.size
 
     def put(self, key, value):
-        for i in range(len(self.hash_map)):
-            if self.hash_map[i][0] == key:
-                self.hash_map[i][1] = value
+        idx = self._hash(key)
+        curr = self.table[idx]
+
+        while curr.next:
+            if curr.next.key == key:
+                curr.next.val = value
                 return
-        
-        self.hash_map.append([key, value])
+            curr = curr.next
+
+        curr.next = ListNode(key, value)
         
 
     def get(self, key):
-        for the_key, value in self.hash_map:
-            if the_key == key:
-                return value
-        return -1 
+        idx = self._hash(key)
+        curr = self.table[idx]
+
+        while curr.next:
+            if curr.next.key == key:
+                return curr.next.val
+            curr = curr.next
         
+        return -1
 
     def remove(self, key):
-        for i in range(len(self.hash_map) - 1, -1, -1):
-            if self.hash_map[i][0] == key:
-                del self.hash_map[i]
+        idx = self._hash(key)
+        curr = self.table[idx]
+
+        while curr.next:
+            if curr.next.key == key:
+                curr.next = curr.next.next
+                return
+            curr = curr.next
         
 
 
