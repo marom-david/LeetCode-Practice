@@ -1,7 +1,7 @@
 class Solution(object):
     def matchPlayersAndTrainers(self, players, trainers):
-        players = sorted(players)
-        trainers = sorted(trainers)
+        players.sort()
+        trainers.sort()
         res = 0
 
         for t in range(len(trainers)):
