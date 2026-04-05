@@ -1,6 +1,5 @@
 class Solution(object):
     def maxNumberOfFamilies(self, n, reservedSeats):
-        reservedSeats.sort()
         res = 0
         rowReserved = {}
 
