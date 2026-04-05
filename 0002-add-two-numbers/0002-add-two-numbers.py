@@ -5,9 +5,9 @@
 #         self.next = next
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
-        remainder = 0
-        dummy = ListNode()
-        tail = dummy
+        carry = 0
+        res = ListNode()
+        tail = res
 
         while l1 or l2:
             v1 = 0
@@ -17,15 +17,16 @@ class Solution(object):
                 v1 = l1.val
             if l2 != None:
                 v2 = l2.val
-
-            val = v1 + v2 + remainder
+            
+            val = v1+v2+carry
             tail.next = ListNode(val%10)
             tail = tail.next
-            remainder = val//10
+            carry = val//10
             if l1: l1 = l1.next
             if l2: l2 = l2.next
 
-        if remainder: 
-            tail.next = ListNode(remainder)
+        if carry:
+            tail.next = ListNode(carry)
             tail = tail.next
-        return dummy.next
+        
+        return res.next
