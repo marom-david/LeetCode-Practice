@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/marom-david/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
+| [1386-cinema-seat-allocation](https://github.com/marom-david/LeetCode-Practice/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/marom-david/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/marom-david/LeetCode-Practice/tree/master/1046-last-stone-weight) |
+| [1386-cinema-seat-allocation](https://github.com/marom-david/LeetCode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/marom-david/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/marom-david/LeetCode-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/marom-david/LeetCode-Practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/marom-david/LeetCode-Practice/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
