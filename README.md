@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0566-reshape-the-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/marom-david/LeetCode-Practice/tree/master/0706-design-hashmap) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/marom-david/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/marom-david/LeetCode-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/marom-david/LeetCode-Practice/tree/master/0994-rotting-oranges) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/marom-david/LeetCode-Practice/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/marom-david/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 ## Queue
 |  |
