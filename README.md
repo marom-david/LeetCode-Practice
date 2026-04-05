@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/marom-david/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0384-shuffle-an-array) |
+| [0414-third-maximum-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/marom-david/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/marom-david/LeetCode-Practice/tree/master/0704-binary-search) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/marom-david/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marom-david/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/marom-david/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/marom-david/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/marom-david/LeetCode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/marom-david/LeetCode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/marom-david/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
